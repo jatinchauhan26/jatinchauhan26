@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Jatin Chauhan</h1>
-<h3 align="center">🚀 Skilled in Python, SQL, and Java | Currently exploring Data Science & Machine Learning</h3>
+<h3 align="center">🚀 Knowledgeable in Python, SQL, and Java | Currently exploring Data Science & Machine Learning</h3>
 
 ---
 
