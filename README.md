@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5Y3Y2Z292eG1vcWFlNzF2bmpodzBkYWZ1eDY0bDF1NWVidDVlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100px">
 </p>
+
 ---
 
 ### 🌟 ABOUT ME  
@@ -10,10 +11,6 @@
 - 📊 Currently learning **Data Science** and **Machine Learning** to expand my expertise  
 - 📚 Passionate about turning data into insights and solving complex problems  
 - 🎯 Always eager to build scalable, efficient, and clean data pipelines
-
-<p align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px">
-</p>
 
 ---
 
@@ -24,6 +21,8 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p> <p align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px">
 </p>
 
 ---
