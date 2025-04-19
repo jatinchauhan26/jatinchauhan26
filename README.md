@@ -1,6 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Jatin Chauhan</h1>
 <h3 align="center">🚀 Knowledgeable in Python, SQL, and Java | Currently exploring Data Science & Machine Learning</h3>
-
+<p align="right">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhappy-programmers-day&psig=AOvVaw3twM4bGA4pAFjDtO_OWoOi&ust=1745174653346000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD4zbDg5IwDFQAAAAAdAAAAABAE" width="100px">
+</p>
 ---
 
 ### 🌟 ABOUT ME  
