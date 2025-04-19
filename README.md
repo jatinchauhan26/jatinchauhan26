@@ -37,7 +37,7 @@
 ### 📫 CONNECT WITH ME
 
 - 🔗 [LinkedIn – Jatin Chauhan](https://www.linkedin.com/in/jatin-chauhan-90a69b360/)  
-- 🔗 [GitHub – jatinrajput26](https://github.com/jatinrajput26)
+- 🔗 [GitHub – jatinchauhan26](https://github.com/jatinchauhan26)
 
 ---
 
