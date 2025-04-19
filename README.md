@@ -9,7 +9,7 @@
 - 📚 Passionate about turning data into insights and solving complex problems  
 - 🎯 Always eager to build scalable, efficient, and clean data pipelines
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px">
 </p>
 
