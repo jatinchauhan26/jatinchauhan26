@@ -35,20 +35,52 @@
 
 ### 📈 GITHUB STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinrajput26&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinrajput26&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinrajput26&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinchauhan26&show_icons=true&theme=radical&hide_border=false&border_radius=15" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=jatinchauhan26&theme=radical&hide_border=false&border_radius=15" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinchauhan26&layout=compact&theme=radical&hide_border=false&border_radius=15" width="40%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jatinchauhan26&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" />
+</div>
+
+
+
+
 
 ---
 
 ### 📫 CONNECT WITH ME
 
-- 🔗 [LinkedIn – Jatin Chauhan](https://www.linkedin.com/in/jatin-chauhan-90a69b360/)  
-- 🔗 [GitHub – jatinchauhan26](https://github.com/jatinchauhan26)
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/jatin-chauhan-90a69b360/" target="_blank" style="text-decoration: none; display: block; margin-bottom: 20px; display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="22" height="22" style="margin-right: 10px;">
+  LinkedIn – Jatin Chauhan&nbsp;&nbsp;&nbsp;&nbsp;🔗
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/jatinchauhan26" target="_blank" style="text-decoration: none; display: block; margin-bottom: 20px; display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="22" height="22" style="margin-right: 10px; filter: brightness(5);">
+  GitHub – jatinchauhan26&nbsp;&nbsp;&nbsp;&nbsp;🔗
+</a>
+
+
+
+
+
+
+
+
+
+
 
 ---
 
