@@ -60,18 +60,15 @@
 
 ### 📫 CONNECT WITH ME
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/jatin-chauhan-90a69b360/" target="_blank" style="text-decoration: none; display: block; margin-bottom: 20px; display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="22" height="22" style="margin-right: 10px;">
-  LinkedIn – Jatin Chauhan&nbsp;&nbsp;&nbsp;&nbsp;🔗
+<a href="https://github.com/jatinchauhan26" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<!-- GitHub -->
-<a href="https://github.com/jatinchauhan26" target="_blank" style="text-decoration: none; display: block; margin-bottom: 20px; display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="22" height="22" style="margin-right: 10px; filter: brightness(5);">
-  GitHub – jatinchauhan26&nbsp;&nbsp;&nbsp;&nbsp;🔗
+<a href="https://www.linkedin.com/in/jatin-chauhan-25453735a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+<a href="https://www.instagram.com/thakurr_jatin_rajput/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a
 
 
 
