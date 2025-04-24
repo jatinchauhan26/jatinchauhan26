@@ -54,10 +54,12 @@
 
 
 
-
 ---
 
+<div align="left">
+  
 ### 📫 CONNECT WITH ME
+</div>
 
 <a href="https://github.com/jatinchauhan26" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -69,19 +71,16 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a
 
-
-
-
-
-
-
-
-
-
 ---
 
+---
+<div align="left">
+  
 ### 💡 MOTIVATION
+</div>
 
-> *“In a world full of data, be the one who finds the meaning.”* 🔍
+ *“In a world full of data, be the one who finds the meaning.”* 🔍
 
 ✨ Keep learning, keep coding, and let your curiosity lead the way!
+
+---
