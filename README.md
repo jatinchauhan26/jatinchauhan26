@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Jatin Chauhan</h1>
-<h3 align="center">🚀 Knowledgeable in Python, SQL, and Java | Currently exploring Data Science & Machine Learning</h3>
+<h3 align="center">🚀 Knowledgeable in Python, SQL, and Java | Currently exploring Data Science & Machine Learning </h3>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5Y3Y2Z292eG1vcWFlNzF2bmpodzBkYWZ1eDY0bDF1NWVidDVlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100px">
 </p>
