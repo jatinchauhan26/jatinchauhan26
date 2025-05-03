@@ -9,8 +9,8 @@
 ### 🌟 ABOUT ME  
 - 👨‍💻 Knowledgeable in **Python**, **SQL**, and **Java**  
 - 📊 Currently learning **Data Science** and **Machine Learning** to expand my expertise  
-- 📚 Passionate about turning data into insights and solving complex problems  
-- 🎯 Always eager to  build scalable, efficient, and clean data pipelines
+- 📚 Passionate about turning data into insights and solving complex problems.
+- 🎯 Always eager to  build scalable, efficient, and clean data pipelines.
 
 ---
 
