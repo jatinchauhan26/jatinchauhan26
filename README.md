@@ -36,28 +36,22 @@
 
 ### 📈 GITHUB STATS
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinchauhan26&show_icons=true&theme=radical&hide_border=false&border_radius=15" width="49%" />
-
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinchauhan26&layout=compact&theme=radical&hide_border=false&border_radius=15" width="40%" />
+<div align="center">   
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinchauhan26&show_icons=true&theme=radical&hide_border=false&border_radius=15" width="49%" />   
+  <br/>  
+  <div align="center">   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinchauhan26&layout=compact&theme=radical&hide_border=false&border_radius=15" width="40%" /> 
+  </div>  
+  <br/>  
+  <div align="center">   
+    <img src="https://github-profile-trophy.vercel.app/?username=jatinchauhan26&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" /> 
+  </div>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinchauhan26&theme=radical&hide_border=false&border_radius=15" width="49%" />
+  </div>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jatinchauhan26&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" />
-</div>
-
-
-
-
----
-
-<div align="left">
   
 ### 📫 CONNECT WITH ME
 </div>
